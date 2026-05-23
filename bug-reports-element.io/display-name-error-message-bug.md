@@ -19,3 +19,4 @@ The system displays a generic error message: *"Unable to set display name"*. Thi
 The system should provide clear, actionable feedback explaining exactly *why* the input was rejected, such as: *"Display name is too long (Maximum 50 characters)."*
 
 **Severity:** **Low (UX / Text Quality Defect)** * **Reasoning:** The system correctly blocks the invalid input, but the poor error messaging harms the user experience by failing to explain how to correct the mistake.
+<img width="1920" height="1080" alt="23 05 2026_10 39 04_REC" src="https://github.com/user-attachments/assets/d3223fb3-1838-4089-b0d5-8e575789b731" />
